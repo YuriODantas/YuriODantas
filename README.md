@@ -1,7 +1,7 @@
  <h1 align="center">Olá 👋, Eu sou o Yuri O. Dantas</h1>
   <h3 align="center">Desenvolvedor Frontend em busca sempre de novos conhecimentos e desafios.</h3>
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
         src="https://github-profile-trophy.vercel.app/?username=yuriodantas" alt="yuriodantas" /></a> </p>
 
   <h3 align="left">Meus contatos:</h3>
