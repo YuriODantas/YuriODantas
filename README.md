@@ -12,9 +12,6 @@
     <a href="https://instagram.com/yuriodantas" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
         alt="yuriodantas" height="30" width="40" /></a>
-    <a href="https://discord.gg/YuriDantas#3017" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-        alt="YuriDantas#3017" height="30" width="40" /></a>
   </p>
 
   <h3 align="left">Linguagens, ferramentas e frameworks:</h3>
