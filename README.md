@@ -41,9 +41,9 @@ Sou Desenvolvedor Frontend em busca do conhecimento Fullstack, sempre buscando n
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
   <p><img align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriodantas&show_icons=true&locale=pt-Br&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriodantas&show_icons=true&locale=pt-Br&layout=compact&theme=dark"
       alt="yuriodantas" /></p>
 
   <p>&nbsp;<img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=yuriodantas&show_icons=true&locale=pt-Br"
+      src="https://github-readme-stats.vercel.app/api?username=yuriodantas&show_icons=true&locale=pt-Br&theme=dark"
       alt="yuriodantas" /></p>
