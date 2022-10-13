@@ -7,7 +7,6 @@ Sou Desenvolvedor Frontend em busca do conhecimento Fullstack, sempre buscando n
 ## 📱 Meus contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuriodantas)
-[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuriodantas)
 
 ### 🖥️ Linguagens
 
@@ -16,6 +15,7 @@ Sou Desenvolvedor Frontend em busca do conhecimento Fullstack, sempre buscando n
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://www.mysql.com/)
 
 ### 📚 Libs e Frameworks
 
@@ -24,6 +24,9 @@ Sou Desenvolvedor Frontend em busca do conhecimento Fullstack, sempre buscando n
 ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Axios](https://axios-http.com/)
+![Material UI](https://mui.com/)
+
 
 ### 🗃️ Banco de Dados
 
@@ -38,7 +41,6 @@ Sou Desenvolvedor Frontend em busca do conhecimento Fullstack, sempre buscando n
 ### 🖌️ Design
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
   <p><img align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriodantas&show_icons=true&locale=pt-Br&layout=compact&theme=dark"
